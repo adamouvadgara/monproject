@@ -15,7 +15,7 @@ public class Exo {
         int[]t;
         int taille;
         int somme=0;
-        
+        //jjfifggff
         Scanner sc=new Scanner (System.in);
         System.out.println("entrer le plus grand nombre indice :");
         taille=sc.nextInt();
